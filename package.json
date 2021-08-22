@@ -1,0 +1,17 @@
+{
+  "name": "cli_tutorial",
+  "version": "1.0.0",
+  "description": "node cli sample program",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "gen-story": "bin/cli.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "glob": "^7.1.7"
+  }
+}
