@@ -1,5 +1,5 @@
 {
-  "name": "cli_tutorial",
+  "name": "storybook-gen-cli",
   "version": "1.0.0",
   "description": "node cli sample program",
   "main": "index.js",
